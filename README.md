@@ -43,145 +43,24 @@
 
 </div>
 
-## 💻 Programming Languages
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65"/>
-<br>C
-</td>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/>
-<br>C++
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
 
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65"/>
-<br>Java
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,spring" />
+</p>
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
-<br>Python
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws" />
+</p>
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
-<br>JavaScript
-</td>
-
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65" height="65"/>
-<br>TypeScript
-</td>
-
-</tr>
-</table>
-
-## 🎨 Frontend Development
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65" height="65"/>
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65" height="65"/>
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65"/>
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="65" height="65"/>
-<br>Figma
-</td>
-</tr>
-</table>
-
----
-
-## ⚙️ Backend & Databases
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65"/>
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="65" height="65"/>
-<br>Spring Boot
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65"/>
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="65" height="65"/>
-<br>MongoDB
-</td>
-</tr>
-</table>
-
----
-
-## 🤖 AI / Machine Learning
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="65" height="65"/>
-<br>Artificial Intelligence
-</td>
-<td align="center" width="96">
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149676.png" width="65" height="65"/>
-<br>Machine Learning
-</td>
-<td align="center" width="96">
-<img src="https://cdn-icons-png.flaticon.com/512/2821/2821637.png" width="65" height="65"/>
-<br>RAG Systems
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tools & Platforms
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65" height="65"/>
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/>
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65" height="65"/>
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="65" height="65"/>
-<br>Arduino
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,arduino,figma" />
+</p>
 ---
 
 ## 🚀 Featured Projects
