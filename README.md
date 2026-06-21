@@ -1,31 +1,20 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MD%20Auranzeb%20Khan&fontSize=65&theme=dracula" alt="MD Auranzeb Khan" />
-</h1>
-
-<h3 align="center">Full-Stack Developer | AI Researcher</h3>
-
-###
-
-<h2 align="center">🌌 Welcome to My Digital Universe!</h2>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5e.gif" alt="Coding Illustration" width="450" />
-</p>
-
-<p align="center">
-  <strong>I'm a passionate developer who transforms ideas into reality through code. Let's build something amazing together!</strong>
-</p>
-
+```html
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Auranzeb05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views tracker" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:ec4899&text=MD%20AURANZEB%20KHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=60"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+Machine+Learning+Explorer;💡+Building+Innovative+Projects;🌱+Computer+Science+Student;🔥+Turning+Ideas+Into+Reality" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auranzeb05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="Auranzeb's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Auranzeb05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="Auranzeb's Top Languages" />
+
+[![GitHub followers](https://img.shields.io/github/followers/Auranzeb05?style=for-the-badge&logo=github&color=2563eb)](https://github.com/Auranzeb05?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Auranzeb05&style=for-the-badge&color=7c3aed)](https://github.com/Auranzeb05)
+[![GitHub Stars](https://img.shields.io/github/stars/Auranzeb05?affiliations=OWNER&style=for-the-badge&color=ec4899)](https://github.com/Auranzeb05)
+
 </div>
+```
 
 ---
 
