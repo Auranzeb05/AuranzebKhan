@@ -13,9 +13,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Auranzeb05?tab=followers">
-  <img src="https://img.shields.io/github/followers/Auranzeb05?style=for-the-badge&logo=github&label=Followers&color=0D1117"/>
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=Auranzeb05&style=for-the-badge&color=blueviolet"/>
 
