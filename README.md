@@ -13,7 +13,6 @@
 
 <div align="center">
 
-
 <img src="https://komarev.com/ghpvc/?username=Auranzeb05&style=for-the-badge&color=blueviolet"/>
 
 </div>
